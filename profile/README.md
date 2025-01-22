@@ -19,11 +19,11 @@ This project aims to improve the federal government's methodology for identifyin
 
 
 ## Contributors
-- Josephine Cardelle - @jocardelle
+- [Josephine Cardelle](https://github.com/jocardelle)
   
-- Kat Le - @katley
+- [Kat Le](https://github.com/katleyq)
   
-- Haylee Oyler - @haylee360
+- [Haylee Oyler](https://github.com/haylee360)
   
-- Kimberlee Wong - @kimberleewong
+- [Kimberlee Wong](https://github.com/kimberleewong)
 
