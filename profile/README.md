@@ -15,12 +15,15 @@ This project aims to improve the federal government's methodology for identifyin
   
 - Document the racial, ethnic, and socioeconomic characteristics of disadvantaged communities in the U.S. experiencing disproportionately high exposure to climate and environmental burdens.
 
-  ## Data
+## Data
 
 
-  ## Contributors
-  - Josephine Cardelle - @jocardelle
-  - Kat Le - @katleyq
-  - Haylee Oyler - @haylee360
-  - Kimberlee Wong - @kimberleewong
+## Contributors
+- Josephine Cardelle - @jocardelle
+  
+- Kat Le - @katley
+  
+- Haylee Oyler - @haylee360
+  
+- Kimberlee Wong - @kimberleewong
 
