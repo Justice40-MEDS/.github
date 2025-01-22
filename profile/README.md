@@ -1,4 +1,4 @@
-# Justice40 - Identifying Justice40 Communities Based on Cumulative Environmental Burdens
+# Identifying Justice40 Communities Based on Cumulative Environmental Burdens
 
 
 This GitHub organization hosts the code and documentation used in a Capstone Project for the degree of Master of Environmental Data Science for the [Bren School of Environmental Science & Management, University of California, Santa Barbara](https://bren.ucsb.edu/).
