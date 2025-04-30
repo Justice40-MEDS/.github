@@ -35,3 +35,36 @@ This project aims to improve the federal government's methodology for identifyin
 ## Client/Advisor
 - Jayajit Chakraborty
 
+## Acknowledgements
+This project could not have been completed without the support and guidance of this project.
+
+Faculty Advisor & Client:
+Dr. Jayajit Chakraborty, Bren School of Environmental Science & Management
+
+Capstone Advisor:
+Dr. Carmen Galaz García, Bren School of Environmental Science & Management
+
+Special Thanks:
+Dr. Max Czapanskiy, Bren School of Environmental Science & Management
+Juliet Cohen, Bren School of Environmental Science & Management 
+Abigail Vath Meyer, National Center Ecological Analysis and Synthesis
+
+## References
+
+Anselin, L. (1995), Local Indicators of Spatial Association—LISA. Geographical Analysis, 27: 93-115. https://doi.org/10.1111/j.1538-4632.1995.tb00338.x
+
+Bivand, R.S., Wong, D.W.S. Comparing implementations of global and local indicators of spatial association. TEST 27, 716–748 (2018). https://doi.org/10.1007/s11749-018-0599-x
+
+Centers for Disease Control and Prevention and Agency for Toxic Substances Disease Registry. 2022 Environmental Justice Index. Accessed October 16, 2024. https://www.atsdr.cdc.gov/placeandhealth/eji/index.html
+
+Chakraborty J, 2024. Using Local Indicators of Spatial Association to Analyze the Environmental Justice Implications of Ambient Air Pollution in the United States. Environmental Justice. https://doi.org/10.1089/env.2023.0017 
+
+Getis, A., & Ord, J. K. (1992). The Analysis of Spatial Association by Use of Distance Statistics. Geographical Analysis, 24(3), 189–206. https://doi.org/10.1111/j.1538-4632.1992.tb00261.x 
+
+Livings, M. and Wu, A-M. (2020). Local Measures of Spatial Association. The Geographic Information Science & Technology Body of Knowledge (3rd Quarter 2020 Edition), John P. Wilson (Ed.). DOI: 10.22224/gistbok/2020.3.10
+
+National Academies of Sciences, Engineering and Medicine (NASEM). (2024). Constructing Valid Geospatial Tools for Environmental Justice. Washington DC: The National Academy Press. https://doi.org/10.17226/27317 
+
+Shrestha, R. (2023, March 18). CEQ’s Climate and Economic Justice Screening Tool Needs to Consider How Burdens Add Up. World Resources Institute. Retrieved October 16, 2024, from https://www.wri.org/technical-perspectives/ceq-climate-and-economic-justice-screening-tool-cumulative-burdens 
+
+
