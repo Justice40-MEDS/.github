@@ -23,7 +23,7 @@ This project aims to improve the federal government's methodology for identifyin
 ## Data
 
 
-## Contributors
+## Authors
 - [Josephine Cardelle](https://github.com/jocardelle)
   
 - [Kat Le](https://github.com/katleyq)
