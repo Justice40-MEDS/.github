@@ -15,6 +15,11 @@ This project aims to improve the federal government's methodology for identifyin
   
 - Document the racial, ethnic, and socioeconomic characteristics of disadvantaged communities in the U.S. experiencing disproportionately high exposure to climate and environmental burdens.
 
+## Repositories:
+- data-exploration: Current repository that is used to document our exploration of the data within the geospatial tool. It houses our statistical and additive analyses that are layers on the web application.
+- data-analysis: Repository that will eventually hold the cleaned notebooks and documentation from the data-exploration.
+- j40-cejst-tool: Repository that holds the Climate and Economic Justice Screening Tool, the components within the tool, and the pipeline to create the map tiles. 
+
 ## Data
 
 
@@ -26,4 +31,7 @@ This project aims to improve the federal government's methodology for identifyin
 - [Haylee Oyler](https://github.com/haylee360)
   
 - [Kimberlee Wong](https://github.com/kimberleewong)
+
+## Client/Advisor
+- Jayajit Chakraborty
 
