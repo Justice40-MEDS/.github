@@ -34,7 +34,7 @@ This project aims to improve the federal government's methodology for identifyin
 - [Kimberlee Wong](https://github.com/kimberleewong)
 
 ## Client/Advisor
-- Jayajit Chakraborty
+- [Jayajit Chakraborty](https://bren.ucsb.edu/people/jayajit-chakraborty)
 
 ## Acknowledgements
 This project could not have been completed without the support and guidance of these people:
