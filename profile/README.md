@@ -18,8 +18,7 @@ This project aims to improve the federal government's methodology for identifyin
 - Document the racial, ethnic, and socioeconomic characteristics of disadvantaged communities in the U.S. experiencing disproportionately high exposure to climate and environmental burdens.
 
 ## Repositories:
-- data-exploration: Current repository that is used to document our exploration of the data within the geospatial tool. It houses our statistical and additive analyses that are layers on the web application.
-- data-analysis: Repository that will eventually hold the cleaned notebooks and documentation from the data-exploration.
+- data-analysis: Houses our data exploration and statistical hotspot analysis. Also contains visualization content for presentations. 
 - j40-cejst-tool: Repository that holds the Climate and Economic Justice Screening Tool, the components within the tool, and the pipeline to create the map tiles. 
 
 ## Data
@@ -38,18 +37,13 @@ This project aims to improve the federal government's methodology for identifyin
 - Jayajit Chakraborty
 
 ## Acknowledgements
-This project could not have been completed without the support and guidance of this project.
+This project could not have been completed without the support and guidance of these people:
 
-Faculty Advisor & Client:
-Dr. Jayajit Chakraborty, Bren School of Environmental Science & Management
+Faculty Advisor & Client: Dr. Jayajit Chakraborty, Bren School of Environmental Science & Management
 
-Capstone Advisor:
-Dr. Carmen Galaz García, Bren School of Environmental Science & Management
+Capstone Advisor: Dr. Carmen Galaz García, Bren School of Environmental Science & Management
 
-Special Thanks:
-Dr. Max Czapanskiy, Bren School of Environmental Science & Management
-Juliet Cohen, Bren School of Environmental Science & Management 
-Abigail Vath Meyer, National Center Ecological Analysis and Synthesis
+Special Thanks: Dr. Max Czapanskiy, Bren School of Environmental Science & Management. Juliet Cohen, Bren School of Environmental Science & Management. Abigail Vath Meyer, National Center Ecological Analysis and Synthesis
 
 ## References
 
