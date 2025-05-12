@@ -23,6 +23,21 @@ This project aims to improve the federal government's methodology for identifyin
 
 ## Data
 
+| **Inputs**                           | **Source**                                                                                                                                                                                |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Mean household income**            | US Census Bureau’s American Community Survey API ([Link](https://www.census.gov/data/developers/data-sets.html))                                                                           |
+| **Climate change burden category** (expected agricultural loss rate, expected building loss rate, expected population loss rate, projected flood risk, projected wildfire risk) | Federal Emergency Management Agency’s (FEMA) National Risk Index ([Link](https://hazards.fema.gov/nri/data-resources))                                                                     |
+| **Energy burden category** (energy cost, PM2.5) | Department of Energy (DOE)’s LEAD Tool from 2018 ([Link](https://www.energy.gov/scep/low-income-energy-affordability-data-lead-tool-and-community-energy-solutions))<br>EPA AirToxScreen ([Link](https://www.epa.gov/AirToxScreen)) |
+| **Health burden category** (asthma, diabetes, heart disease, low life expectancy) | Centers for Disease Control and Prevention’s (CDC) PLACES data from 2016 - 2019 ([Link](https://www.cdc.gov/places/index.html))<br>CDC’s USALEEP ([Link](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html#data))                     |
+| **Housing burden category** (historic under-investment, housing cost, lack of green space, lack of indoor plumbing, lead paint) | National Community Reinvestment Coalition (NCRC) dataset of formerly redlined areas ([Link](https://www.openicpsr.org/openicpsr/project/141121/version/V2/view))<br>HUD’s CHAS dataset ([Link](https://www.huduser.gov/portal/datasets/cp.html)) |
+| **Legacy pollution burden category** (abandoned mine land, formerly used defense sites, proximity to hazardous waste facilities, proximity to superfund sites, proximity to Risk Management facilities) | DOI’s Abandoned Mine Land Inventory System (e-AMLIS) ([Link](https://www.osmre.gov/programs/e-amlis))<br>EPA’s EJScreen ([Link](https://www.epa.gov/ejscreen/technical-documentation-ejscreen))                                  |
+| **Transportation burden category** (diesel particulate matter exposure, transportation barriers, traffic proximity and volume) | DOT’s Transportation Access Disadvantage ([Link](https://www.transportation.gov/priorities/equity/justice40/transportation-insecurity))                                                    |
+| **Water and wastewater burden** (underground storage tanks and releases, wastewater discharge) | EPA’s UST Finder ([Link](https://www.epa.gov/ust/ust-finder))<br>EPA’s RSEI model ([Link](https://www.epa.gov/ejscreen/technical-documentation-ejscreen))                                   |
+| **Workforce development burden** (linguistic isolation, low median income, poverty, unemployment, high school education) | US Census Bureau’s American Community Survey API ([Link](https://www.census.gov/data/developers/data-sets.html))                                                                            |
+| **Tribal lands category** (Land Area Representation depicts the exterior of a Federal Indian land area) | Bureau of Indian Affairs’ Land Area Representation dataset ([Link](https://www.bia.gov/bia/ots/dris/bogs))                                                                                  |
+| **Racial/Ethnic Data**               | US Census Bureau’s American Community Survey 5-Year Estimates ([Link](https://www.census.gov/data/developers/data-sets.html))                                                               |
+                                                               |
+
 
 ## Authors
 - [Josephine Cardelle](https://github.com/jocardelle)
