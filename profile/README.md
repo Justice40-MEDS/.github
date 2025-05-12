@@ -36,7 +36,6 @@ This project aims to improve the federal government's methodology for identifyin
 | **Workforce development burden** (linguistic isolation, low median income, poverty, unemployment, high school education) | US Census Bureau’s American Community Survey API ([Link](https://www.census.gov/data/developers/data-sets.html))                                                                            |
 | **Tribal lands category** (Land Area Representation depicts the exterior of a Federal Indian land area) | Bureau of Indian Affairs’ Land Area Representation dataset ([Link](https://www.bia.gov/bia/ots/dris/bogs))                                                                                  |
 | **Racial/Ethnic Data**               | US Census Bureau’s American Community Survey 5-Year Estimates ([Link](https://www.census.gov/data/developers/data-sets.html))                                                               |
-                                                               |
 
 
 ## Authors
