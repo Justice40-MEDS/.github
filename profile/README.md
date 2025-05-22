@@ -18,8 +18,8 @@ This project aims to improve the federal government's methodology for identifyin
 - Document the racial, ethnic, and socioeconomic characteristics of disadvantaged communities in the U.S. experiencing disproportionately high exposure to climate and environmental burdens.
 
 ## Repositories:
-- data-analysis: Houses our data exploration and statistical hotspot analysis. Also contains visualization content for presentations. 
-- j40-cejst-tool: Repository that holds the Climate and Economic Justice Screening Tool, the components within the tool, and the pipeline to create the map tiles. 
+- [data-analysis](https://github.com/Justice40-MEDS/data-analysis): Houses our data exploration and statistical hotspot analysis. Also contains visualization content for presentations. 
+- [j40-cejst-2](https://github.com/Justice40-MEDS/j40-cejst-2): Repository that holds the Climate and Economic Justice Screening Tool, the components within the tool, and the pipeline to create the map tiles. 
 
 ## Data
 
