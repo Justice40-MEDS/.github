@@ -1,7 +1,8 @@
 # Identifying Disadvantaged Communities Using Cumulative Environmental Burdens
 
+## [CEJST+](https://apps.bren.ucsb.edu/justice40/en/)
 
-This GitHub organization hosts the code and documentation used in a Capstone Project for the degree of Master of Environmental Data Science for the [Bren School of Environmental Science & Management, University of California, Santa Barbara](https://bren.ucsb.edu/). The code and documentation for the [CEJST+](https://apps.bren.ucsb.edu/justice40/en/) is contained in this repository.
+This GitHub organization hosts the code and documentation used in a Capstone Project for the degree of Master of Environmental Data Science for the [Bren School of Environmental Science & Management, University of California, Santa Barbara](https://bren.ucsb.edu/). The code and documentation for [CEJST+](https://apps.bren.ucsb.edu/justice40/en/) is contained in this repository.
 
 A link to the [full summary](https://bren.ucsb.edu/projects/identifying-justice40-communities-based-cumulative-environmental-burdens) on the UCSB Bren website.
 
